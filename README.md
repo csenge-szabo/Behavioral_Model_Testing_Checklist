@@ -1,6 +1,8 @@
 # Behavioral Testing of SRL Models using Checklist
 
-## Author: Csenge Szabó
+## Author: 
+
+Csenge Szabó
 
 ## Introduction
 This project implements Checklist methods to test Semantic Role Labeling (SRL) models developed in the Advanced NLP Master's course at VU Amsterdam. It aims to assess transformer-based models' capabilities in SRL.
