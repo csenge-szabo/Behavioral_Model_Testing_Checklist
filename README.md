@@ -4,7 +4,7 @@
 Csenge Szabó
 
 ### Introduction
-The aim of this project is to implement Checklist methods for testing SRL models created throughout the Advanced NLP Master's course at VU Amsterdam. The aim of this individual assignment is to challenge transformer-based models in their capabilities of Semantic Role Labeling.
+The aim of this project is to implement Checklist methods for testing Semantic Role Labeling (SRL) models created throughout the Advanced NLP Master's course at VU Amsterdam. The aim of this individual assignment is to challenge transformer-based models in their capabilities of SRL.
 
 For the full project report and the results, read `Challenging_SRL_Models_Csenge_Szabo.pdf`.
 
