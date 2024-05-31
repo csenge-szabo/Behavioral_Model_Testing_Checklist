@@ -1,0 +1,109 @@
+1	1	The	_	_
+1	2	world	_	ARG0
+1	3	saw	_	_
+1	4	the	_	_
+1	5	beginning	_	ARG1
+1	6	of	_	_
+1	7	a	_	_
+1	8	new	_	_
+1	9	era	_	_
+1	10	in	_	_
+1	11	1989	ARGM-TMP	_
+1	12	.	_	_
+
+2	1	1989	ARG0	ARG0
+2	2	saw	_	_
+2	3	the	_	_
+2	4	beginning	_	ARG1
+2	5	of	_	_
+2	6	a	_	_
+2	7	new	_	_
+2	8	era	_	_
+2	9	.	_	_
+
+3	1	Historians	_	ARG0
+3	2	found	_	_
+3	3	several	_	_
+3	4	cultural	_	_
+3	5	changes	_	ARG1
+3	6	in	_	_
+3	7	the	_	_
+3	8	1960s	ARGM-TMP	_
+3	9	.	_	_
+
+4	1	The	_	_
+4	2	1960s	ARG0	ARG0
+4	3	found	_	_
+4	4	a	_	_
+4	5	society	_	ARG1
+4	6	eager	_	ARG1
+4	7	for	_	_
+4	8	change	_	_
+4	9	.	_	_
+
+5	1	The	_	_
+5	2	art	_	_
+5	3	world	_	ARG0
+5	4	caught	_	_
+5	5	a	_	_
+5	6	new	_	_
+5	7	trend	_	ARG1
+5	8	in	_	_
+5	9	the	_	_
+5	10	90s	ARGM-TMP	ARGM-TMP
+5	11	.	_	_
+
+6	1	The	_	_
+6	2	90s	ARG0	ARG0
+6	3	caught	_	_
+6	4	the	_	_
+6	5	beginning	_	ARG1
+6	6	of	_	_
+6	7	digital	_	_
+6	8	art	_	_
+6	9	forms	_	_
+6	10	.	_	_
+
+7	1	Researchers	_	ARG0
+7	2	saw	_	_
+7	3	technological	_	_
+7	4	advancements	_	ARG1
+7	5	in	_	_
+7	6	the	_	_
+7	7	1980s	ARGM-TMP	ARGM-TMP
+7	8	.	_	_
+
+8	1	The	_	_
+8	2	1980s	ARG0	ARG0
+8	3	saw	_	_
+8	4	the	_	_
+8	5	rise	_	ARG1
+8	6	of	_	_
+8	7	personal	_	_
+8	8	computing	_	_
+8	9	.	_	_
+
+9	1	The	_	_
+9	2	literary	_	_
+9	3	world	_	ARG0
+9	4	finds	_	_
+9	5	unparalleled	_	_
+9	6	creativity	_	ARG1
+9	7	in	_	_
+9	8	the	_	_
+9	9	Renaissance	ARGM-TMP	ARGM-TMP
+9	10	.	_	_
+
+10	1	The	_	_
+10	2	Renaissance	ARG0	ARG0
+10	3	found	_	_
+10	4	new	_	_
+10	5	ways	_	ARG1
+10	6	to	_	_
+10	7	view	_	_
+10	8	the	_	_
+10	9	world	_	_
+10	10	and	_	_
+10	11	humanity	_	_
+10	12	.	_	_
+

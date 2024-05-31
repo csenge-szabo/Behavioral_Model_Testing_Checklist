@@ -1,0 +1,193 @@
+61	1	He	_
+61	2	[PRED] gave	_
+61	3	the	_
+61	4	keys	ARG1
+61	5	to	_
+61	6	the	_
+61	7	owner	ARG2
+61	8	.	_
+
+62	1	He	_
+62	2	[PRED] zinkled	_
+62	3	the	_
+62	4	keys	ARG1
+62	5	to	_
+62	6	the	_
+62	7	owner	ARG2
+62	8	.	_
+
+63	1	The	_
+63	2	librarian	ARG0
+63	3	[PRED] lent	_
+63	4	the	_
+63	5	rare	_
+63	6	book	ARG1
+63	7	to	_
+63	8	the	_
+63	9	researcher	ARG2
+63	10	.	_
+
+64	1	The	_
+64	2	librarian	ARG0
+64	3	[PRED] trillicked	_
+64	4	the	_
+64	5	rare	_
+64	6	book	ARG1
+64	7	to	_
+64	8	the	_
+64	9	researcher	ARG2
+64	10	.	_
+
+65	1	The	_
+65	2	bank	ARG0
+65	3	[PRED] loaned	_
+65	4	money	ARG1
+65	5	to	_
+65	6	the	_
+65	7	small	_
+65	8	business	_
+65	9	owner	ARG2
+65	10	.	_
+
+66	1	The	_
+66	2	bank	ARG0
+66	3	[PRED] crangled	_
+66	4	money	ARG1
+66	5	to	_
+66	6	the	_
+66	7	small	_
+66	8	business	_
+66	9	owner	ARG2
+66	10	.	_
+
+67	1	The	_
+67	2	teacher	ARG0
+67	3	[PRED] passed	_
+67	4	the	_
+67	5	papers	ARG1
+67	6	to	_
+67	7	the	_
+67	8	students	ARG2
+67	9	.	_
+
+68	1	The	_
+68	2	teacher	ARG0
+68	3	[PRED] flarped	_
+68	4	the	_
+68	5	papers	ARG1
+68	6	to	_
+68	7	the	_
+68	8	students	ARG2
+68	9	.	_
+
+69	1	The	_
+69	2	store	ARG0
+69	3	[PRED] refunded	_
+69	4	the	_
+69	5	money	ARG1
+69	6	to	_
+69	7	the	_
+69	8	customer	ARG2
+69	9	.	_
+
+70	1	The	_
+70	2	store	ARG0
+70	3	[PRED] plinked	_
+70	4	the	_
+70	5	money	ARG1
+70	6	to	_
+70	7	the	_
+70	8	customer	ARG2
+70	9	.	_
+
+71	1	He	ARG0
+71	2	[PRED] peddled	_
+71	3	the	_
+71	4	stock	ARG1
+71	5	to	_
+71	6	the	_
+71	7	investors	ARG2
+71	8	.	_
+
+72	1	He	ARG0
+72	2	[PRED] mowled	_
+72	3	the	_
+72	4	stock	ARG1
+72	5	to	_
+72	6	the	_
+72	7	investors	ARG2
+72	8	.	_
+
+73	1	The	_
+73	2	landlord	ARG0
+73	3	[PRED] leased	_
+73	4	the	_
+73	5	new	_
+73	6	tenants	ARG2
+73	7	the	_
+73	8	apartment	ARG1
+73	9	.	_
+
+74	1	The	_
+74	2	landlord	ARG0
+74	3	[PRED] reffled	_
+74	4	the	_
+74	5	new	_
+74	6	tenants	ARG2
+74	7	the	_
+74	8	apartment	ARG1
+74	9	.	_
+
+75	1	She	ARG0
+75	2	[PRED] let	_
+75	3	the	_
+75	4	visiting	_
+75	5	scholar	ARG2
+75	6	the	_
+75	7	room	ARG1
+75	8	.	_
+
+76	1	She	ARG0
+76	2	[PRED] glempted	_
+76	3	the	_
+76	4	visiting	_
+76	5	scholar	ARG2
+76	6	the	_
+76	7	room	ARG1
+76	8	.	_
+
+77	1	The	_
+77	2	homeowner	ARG0
+77	3	[PRED] rented	_
+77	4	the	_
+77	5	vacationers	ARG2
+77	6	the	_
+77	7	cottage	ARG1
+77	8	.	_
+
+78	1	The	_
+78	2	homeowner	ARG0
+78	3	[PRED] quasped	_
+78	4	the	_
+78	5	vacationers	ARG2
+78	6	the	_
+78	7	cottage	ARG1
+78	8	.	_
+
+79	1	The	_
+79	2	company	ARG0
+79	3	[PRED] sold	_
+79	4	the	_
+79	5	competitor	ARG2
+79	6	the	_
+79	7	patent	ARG1
+79	8	.	_
+
+80	1	The	_
+80	2	company	ARG0
+80	3	[PRED] brasked	_
+80	4	the	_
+80	5	competitor	ARG2
+80	6	the	_
+80	7	patent	ARG1
+80	8	.	_

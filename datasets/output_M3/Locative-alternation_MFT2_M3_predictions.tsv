@@ -1,0 +1,178 @@
+1	1	Josh	_	ARG0
+1	2	sprayed	_	_
+1	3	the	_	_
+1	4	wall	ARG2	ARG1
+1	5	with	_	_
+1	6	paint	ARG1	ARGM-MNR
+1	7	.	_	_
+
+2	1	She	_	ARG0
+2	2	loaded	_	_
+2	3	the	_	_
+2	4	wagon	ARG1	ARG1
+2	5	with	_	_
+2	6	boxes	ARG2	ARG2
+2	7	.	_	_
+
+3	1	The	_	_
+3	2	clouds	_	ARG0
+3	3	showered	_	_
+3	4	us	ARG2	ARG1
+3	5	with	_	_
+3	6	icy	_	_
+3	7	rain	ARG1	ARG2
+3	8	.	_	_
+
+4	1	Tom	_	ARG0
+4	2	smeared	_	_
+4	3	the	_	_
+4	4	toast	ARG2	ARG1
+4	5	with	_	_
+4	6	butter	ARG1	ARG2
+4	7	.	_	_
+
+5	1	The	_	_
+5	2	farmers	_	ARG0
+5	3	scattered	_	_
+5	4	the	_	_
+5	5	field	ARG2	ARG1
+5	6	with	_	_
+5	7	seeds	ARG1	ARGM-MNR
+5	8	.	_	_
+
+6	1	The	_	_
+6	2	gardener	_	ARG0
+6	3	splashed	_	_
+6	4	the	_	_
+6	5	flowers	ARG2	ARG1
+6	6	with	_	_
+6	7	water	ARG1	ARGM-MNR
+6	8	.	_	_
+
+7	1	The	_	_
+7	2	baker	_	ARG0
+7	3	dusted	_	_
+7	4	the	_	_
+7	5	cake	ARG2	ARG1
+7	6	with	_	_
+7	7	powdered	_	_
+7	8	sugar	ARG1	ARG2
+7	9	.	_	_
+
+8	1	The	_	_
+8	2	children	_	ARG0
+8	3	draped	_	_
+8	4	themselves	ARG1	ARG1
+8	5	with	_	_
+8	6	fabric	ARG2	ARG2
+8	7	.	_	_
+
+9	1	The	_	_
+9	2	gardener	_	ARG0
+9	3	planted	_	_
+9	4	the	_	_
+9	5	garden	ARG2	ARG1
+9	6	with	_	_
+9	7	fresh	_	_
+9	8	flowers	ARG1	ARGM-MNR
+9	9	.	_	_
+
+10	1	The	_	_
+10	2	postman	_	ARG0
+10	3	stuffed	_	_
+10	4	the	_	_
+10	5	envelopes	ARG2	ARG1
+10	6	with	_	_
+10	7	newsletters	ARG1	ARG2
+10	8	.	_	_
+
+11	1	The	_	_
+11	2	mother	_	ARG0
+11	3	spreads	_	_
+11	4	the	_	_
+11	5	bagel	ARG2	ARG1
+11	6	with	_	_
+11	7	jam	ARG1	ARGM-MNR
+11	8	.	_	_
+
+12	1	The	_	_
+12	2	artists	_	ARG0
+12	3	splattered	_	_
+12	4	the	_	_
+12	5	canvas	ARG2	ARG1
+12	6	with	_	_
+12	7	paint	ARG1	ARGM-MNR
+12	8	.	_	_
+
+13	1	The	_	_
+13	2	husband	_	ARG0
+13	3	stocked	_	_
+13	4	the	_	_
+13	5	fridge	ARG2	ARG1
+13	6	with	_	_
+13	7	drinks	ARG1	ARG2
+13	8	.	_	_
+
+14	1	The	_	_
+14	2	customer	_	ARG0
+14	3	dabbed	_	_
+14	4	her	_	_
+14	5	wrists	ARG2	ARG1
+14	6	with	_	_
+14	7	perfume	ARG1	ARGM-MNR
+14	8	.	_	_
+
+15	1	The	_	_
+15	2	chef	_	ARG0
+15	3	sprinkled	_	_
+15	4	the	_	_
+15	5	dish	ARG2	ARG1
+15	6	with	_	_
+15	7	salt	ARG1	ARGM-MNR
+15	8	.	_	_
+
+16	1	Alex	_	ARG0
+16	2	smudged	_	_
+16	3	his	_	_
+16	4	cheeks	ARG2	ARG1
+16	5	with	_	_
+16	6	lipstick	ARG1	ARGM-MNR
+16	7	.	_	_
+
+17	1	The	_	_
+17	2	student	_	ARG0
+17	3	crammed	_	_
+17	4	his	_	_
+17	5	backpack	ARG2	ARG1
+17	6	with	_	_
+17	7	books	ARG1	ARGM-MNR
+17	8	.	_	_
+
+18	1	Sophia	_	ARG0
+18	2	pumped	_	_
+18	3	the	_	_
+18	4	mattress	ARG2	ARG1
+18	5	with	_	_
+18	6	air	ARG1	ARGM-MNR
+18	7	for	_	_
+18	8	her	_	_
+18	9	guests	_	ARG2
+18	10	.	_	_
+
+19	1	The	_	_
+19	2	nurse	_	ARG0
+19	3	injected	_	_
+19	4	the	_	_
+19	5	patient	ARG2	ARG1
+19	6	with	_	_
+19	7	medicine	ARG1	ARG2
+19	8	.	_	_
+
+20	1	Julia	_	ARG0
+20	2	stacked	_	_
+20	3	the	_	_
+20	4	bookshelf	ARG2	ARG1
+20	5	with	_	_
+20	6	books	ARG1	ARG2
+20	7	.	_	_
+

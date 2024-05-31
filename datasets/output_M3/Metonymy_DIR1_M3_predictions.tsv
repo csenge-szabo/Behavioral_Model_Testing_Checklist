@@ -1,0 +1,169 @@
+1	1	She	_	ARG0
+1	2	won	_	_
+1	3	the	_	_
+1	4	match	_	ARG1
+1	5	in	_	_
+1	6	Manchester	ARGM-LOC	ARGM-LOC
+1	7	.	_	_
+
+2	1	Manchester	ARG0	ARG0
+2	2	won	_	_
+2	3	the	_	_
+2	4	match	_	ARG1
+2	5	.	_	_
+
+3	1	He	_	ARG0
+3	2	studied	_	_
+3	3	ancient	_	_
+3	4	history	_	ARG1
+3	5	in	_	_
+3	6	Athens	ARGM-LOC	ARGM-LOC
+3	7	.	_	_
+
+4	1	Athens	ARG0	ARG0
+4	2	preserved	_	_
+4	3	ancient	_	_
+4	4	history	_	ARG1
+4	5	like	_	_
+4	6	no	_	_
+4	7	other	_	_
+4	8	city	_	ARGM-MNR
+4	9	.	_	_
+
+5	1	He	_	_
+5	2	made	_	_
+5	3	his	_	_
+5	4	fortune	_	ARGM-PRR
+5	5	in	_	_
+5	6	Canada	ARGM-LOC	_
+5	7	.	_	_
+
+6	1	Canada	ARG0	ARG0
+6	2	revolutionized	_	_
+6	3	the	_	_
+6	4	technology	_	_
+6	5	industry	_	ARG1
+6	6	.	_	_
+
+7	1	The	_	_
+7	2	couple	_	ARG0
+7	3	honeymooned	_	_
+7	4	in	_	_
+7	5	Paris	ARGM-LOC	ARGM-LOC
+7	6	.	_	_
+
+8	1	Paris	ARG0	ARG0
+8	2	set	_	_
+8	3	new	_	_
+8	4	tourism	_	_
+8	5	records	_	ARG1
+8	6	last	_	_
+8	7	year	_	ARGM-TMP
+8	8	.	_	_
+
+9	1	She	_	ARG0
+9	2	opened	_	_
+9	3	a	_	_
+9	4	new	_	_
+9	5	store	_	ARG1
+9	6	in	_	_
+9	7	Tokyo	ARGM-LOC	_
+9	8	.	_	_
+
+10	1	Tokyo	ARG0	ARG0
+10	2	dominated	_	_
+10	3	the	_	_
+10	4	robotics	_	_
+10	5	market	_	ARG1
+10	6	this	_	_
+10	7	year	_	ARGM-TMP
+10	8	.	_	_
+
+11	1	They	_	ARG0
+11	2	discovered	_	_
+11	3	rare	_	_
+11	4	artifacts	_	ARG1
+11	5	in	_	_
+11	6	Egypt	ARGM-LOC	ARGM-LOC
+11	7	.	_	_
+
+12	1	Egypt	ARG0	ARG0
+12	2	announced	_	_
+12	3	significant	_	_
+12	4	archaeological	_	_
+12	5	findings	_	ARG1
+12	6	.	_	_
+
+13	1	The	_	_
+13	2	film	_	ARG1
+13	3	was	_	_
+13	4	shot	_	_
+13	5	on	_	_
+13	6	site	_	ARGM-LOC
+13	7	in	_	_
+13	8	Slovakia	ARGM-LOC	ARGM-LOC
+13	9	.	_	_
+
+14	1	Slovakia	ARG0	ARG0
+14	2	led	_	_
+14	3	the	_	_
+14	4	way	_	ARG1
+14	5	in	_	_
+14	6	renewable	_	_
+14	7	energy	_	_
+14	8	adoption	_	ARG2
+14	9	.	_	_
+
+15	1	They	_	ARG0
+15	2	enjoyed	_	_
+15	3	the	_	_
+15	4	music	_	_
+15	5	festival	_	ARG1
+15	6	in	_	_
+15	7	Austin	ARGM-LOC	_
+15	8	.	_	_
+
+16	1	Austin	ARG0	ARG0
+16	2	is	_	_
+16	3	revolutionizing	_	_
+16	4	the	_	_
+16	5	tech	_	_
+16	6	startup	_	_
+16	7	scene	_	ARG1
+16	8	.	_	_
+
+17	1	The	_	_
+17	2	conference	_	ARG1
+17	3	was	_	_
+17	4	held	_	_
+17	5	in	_	_
+17	6	Morocco	ARGM-LOC	ARGM-LOC
+17	7	.	_	_
+
+18	1	Morocco	ARG0	ARG1
+18	2	has	_	_
+18	3	become	_	_
+18	4	a	_	_
+18	5	synonym	_	ARG2
+18	6	for	_	_
+18	7	innovation	_	_
+18	8	.	_	_
+
+19	1	Her	_	_
+19	2	artwork	_	ARG1
+19	3	was	_	_
+19	4	exhibited	_	_
+19	5	in	_	_
+19	6	Chicago	ARGM-LOC	ARGM-LOC
+19	7	.	_	_
+
+20	1	Chicago	ARG0	ARG0
+20	2	set	_	_
+20	3	a	_	_
+20	4	new	_	_
+20	5	standard	_	ARG1
+20	6	in	_	_
+20	7	urban	_	_
+20	8	planning	_	_
+20	9	.	_	_
+

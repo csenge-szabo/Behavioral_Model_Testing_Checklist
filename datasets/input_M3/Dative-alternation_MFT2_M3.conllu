@@ -1,0 +1,91 @@
+11	1	He	ARG0
+11	2	[PRED] gave	_
+11	3	the	_
+11	4	owner	ARG2
+11	5	the	_
+11	6	keys	ARG1
+11	7	.	_
+
+12	1	The	_
+12	2	librarian	ARG0
+12	3	[PRED] lent	_
+12	4	the	_
+12	5	researcher	ARG2
+12	6	the	_
+12	7	rare	_
+12	8	book	ARG1
+12	9	.	_
+
+13	1	The	_
+13	2	bank	ARG0
+13	3	[PRED] loaned	_
+13	4	the	_
+13	5	small	_
+13	6	business	_
+13	7	owner	ARG2
+13	8	the	_
+13	9	money	ARG1
+13	10	.	_
+
+14	1	The	_
+14	2	teacher	ARG0
+14	3	[PRED] passed	_
+14	4	the	_
+14	5	students	ARG2
+14	6	the	_
+14	7	papers	ARG1
+14	8	.	_
+
+15	1	The	_
+15	2	store	ARG0
+15	3	[PRED] refunded	_
+15	4	the	_
+15	5	customer	ARG2
+15	6	the	_
+15	7	money	ARG1
+15	8	.	_
+
+16	1	He	ARG0
+16	2	[PRED] peddled	_
+16	3	the	_
+16	4	investors	ARG2
+16	5	the	_
+16	6	stock	ARG1
+16	7	.	_
+
+17	1	The	_
+17	2	landlord	ARG0
+17	3	[PRED] leased	_
+17	4	the	_
+17	5	new	_
+17	6	tenants	ARG2
+17	7	the	_
+17	8	apartment	ARG1
+17	9	.	_
+
+18	1	She	ARG0
+18	2	[PRED] let	_
+18	3	the	_
+18	4	visiting	_
+18	5	scholar	ARG2
+18	6	the	_
+18	7	room	ARG1
+18	8	.	_
+
+19	1	The	_
+19	2	homeowner	ARG0
+19	3	[PRED] rented	_
+19	4	the	_
+19	5	vacationers	ARG2
+19	6	the	_
+19	7	cottage	ARG1
+19	8	.	_
+
+20	1	The	_
+20	2	company	ARG0
+20	3	[PRED] sold	_
+20	4	the	_
+20	5	competitor	ARG2
+20	6	the	_
+20	7	patent	ARG1
+20	8	.	_

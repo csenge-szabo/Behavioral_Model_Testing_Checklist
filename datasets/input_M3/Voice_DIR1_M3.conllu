@@ -1,0 +1,179 @@
+81	1	The	_
+81	2	letter	_
+81	3	was	_
+81	4	[PRED] written	_
+81	5	by	_
+81	6	the	_
+81	7	author	ARG0
+81	8	.	_
+
+82	1	The	_
+82	2	letter	_
+82	3	was	_
+82	4	[PRED] written	_
+82	5	for	_
+82	6	the	_
+82	7	author	ARG2
+82	8	.	_
+
+83	1	The	_
+83	2	song	_
+83	3	was	_
+83	4	[PRED] sung	_
+83	5	by	_
+83	6	the	_
+83	7	performer	ARG0
+83	8	.	_
+
+84	1	The	_
+84	2	song	_
+84	3	was	_
+84	4	[PRED] sung	_
+84	5	for	_
+84	6	the	_
+84	7	performer	ARG2
+84	8	.	_
+
+85	1	The	_
+85	2	meal	_
+85	3	was	_
+85	4	[PRED] cooked	_
+85	5	by	_
+85	6	the	_
+85	7	chef	ARG0
+85	8	.	_
+
+86	1	The	_
+86	2	meal	_
+86	3	was	_
+86	4	[PRED] cooked	_
+86	5	for	_
+86	6	the	_
+86	7	chef	ARG2
+86	8	.	_
+
+87	1	The	_
+87	2	report	_
+87	3	was	_
+87	4	[PRED] completed	_
+87	5	by	_
+87	6	the	_
+87	7	employee	ARG0
+87	8	.	_
+
+88	1	The	_
+88	2	report	_
+88	3	was	_
+88	4	[PRED] completed	_
+88	5	for	_
+88	6	the	_
+88	7	employee	ARG2
+88	8	.	_
+
+89	1	The	_
+89	2	painting	_
+89	3	was	_
+89	4	[PRED] created	_
+89	5	by	_
+89	6	the	_
+89	7	artist	ARG0
+89	8	.	_
+
+90	1	The	_
+90	2	painting	_
+90	3	was	_
+90	4	[PRED] created	_
+90	5	for	_
+90	6	the	_
+90	7	artist	ARG2
+90	8	.	_
+
+91	1	The	_
+91	2	program	_
+91	3	was	_
+91	4	[PRED] developed	_
+91	5	by	_
+91	6	the	_
+91	7	programmer	ARG0
+91	8	.	_
+
+92	1	The	_
+92	2	program	_
+92	3	was	_
+92	4	[PRED] developed	_
+92	5	for	_
+92	6	the	_
+92	7	programmer	ARG2
+92	8	.	_
+
+93	1	The	_
+93	2	garden	_
+93	3	was	_
+93	4	[PRED] decorated	_
+93	5	by	_
+93	6	the	_
+93	7	gardener	ARG0
+93	8	.	_
+
+94	1	The	_
+94	2	garden	_
+94	3	was	_
+94	4	[PRED] decorated	_
+94	5	for	_
+94	6	the	_
+94	7	gardener	ARG2
+94	8	.	_
+
+95	1	The	_
+95	2	project	_
+95	3	was	_
+95	4	[PRED] led	_
+95	5	by	_
+95	6	the	_
+95	7	manager	ARG0
+95	8	.	_
+
+96	1	The	_
+96	2	project	_
+96	3	was	_
+96	4	[PRED] led	_
+96	5	for	_
+96	6	the	_
+96	7	manager	ARG2
+96	8	.	_
+
+97	1	The	_
+97	2	book	_
+97	3	was	_
+97	4	[PRED] reviewed	_
+97	5	by	_
+97	6	the	_
+97	7	critic	ARG0
+97	8	.	_
+
+98	1	The	_
+98	2	book	_
+98	3	was	_
+98	4	[PRED] reviewed	_
+98	5	for	_
+98	6	the	_
+98	7	critic	ARG2
+98	8	.	_
+
+99	1	The	_
+99	2	documentary	_
+99	3	was	_
+99	4	[PRED] filmed	_
+99	5	by	_
+99	6	the	_
+99	7	director	ARG0
+99	8	.	_
+
+100	1	The	_
+100	2	documentary	_
+100	3	was	_
+100	4	[PRED] filmed	_
+100	5	for	_
+100	6	the	_
+100	7	director	ARG2
+100	8	.	_

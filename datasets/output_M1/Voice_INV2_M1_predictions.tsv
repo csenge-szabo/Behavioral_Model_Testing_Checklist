@@ -1,0 +1,180 @@
+1	1	The	_	_
+1	2	mystery	ARG1	ARG1
+1	3	was	_	_
+1	4	solved	_	_
+1	5	by	_	_
+1	6	the	_	_
+1	7	detective	ARG0	ARG0
+1	8	.	_	_
+
+2	1	The	_	_
+2	2	mystery	ARG1	ARG1
+2	3	was	_	_
+2	4	sovled	_	_
+2	5	by	_	_
+2	6	the	_	_
+2	7	detective	ARG0	ARG0
+2	8	.	_	_
+
+3	1	The	_	_
+3	2	cake	ARG1	ARG1
+3	3	was	_	_
+3	4	baked	_	_
+3	5	by	_	_
+3	6	the	_	_
+3	7	baker	ARG0	ARG0
+3	8	.	_	_
+
+4	1	The	_	_
+4	2	cake	ARG1	ARG1
+4	3	was	_	_
+4	4	bkaed	_	_
+4	5	by	_	_
+4	6	the	_	_
+4	7	baker	ARG0	ARG0
+4	8	.	_	_
+
+5	1	The	_	_
+5	2	program	ARG1	ARG1
+5	3	was	_	_
+5	4	coded	_	_
+5	5	by	_	_
+5	6	the	_	_
+5	7	developer	ARG0	ARG0
+5	8	.	_	_
+
+6	1	The	_	_
+6	2	program	ARG1	ARG1
+6	3	was	_	_
+6	4	cdoed	_	_
+6	5	by	_	_
+6	6	the	_	_
+6	7	developer	ARG0	ARG0
+6	8	.	_	_
+
+7	1	The	_	_
+7	2	song	ARG1	ARG1
+7	3	was	_	_
+7	4	recorded	_	_
+7	5	by	_	_
+7	6	the	_	_
+7	7	musician	ARG0	ARG0
+7	8	.	_	_
+
+8	1	The	_	_
+8	2	song	ARG1	ARG1
+8	3	was	_	_
+8	4	recroded	_	_
+8	5	by	_	_
+8	6	the	_	_
+8	7	musician	ARG0	ARG0
+8	8	.	_	_
+
+9	1	The	_	_
+9	2	message	ARG1	ARG1
+9	3	was	_	_
+9	4	sent	_	_
+9	5	by	_	_
+9	6	the	_	_
+9	7	administrator	ARG0	ARG0
+9	8	.	_	_
+
+10	1	The	_	_
+10	2	message	ARG1	ARG1
+10	3	was	_	_
+10	4	snet	_	_
+10	5	by	_	_
+10	6	the	_	_
+10	7	administrator	ARG0	ARG0
+10	8	.	_	_
+
+11	1	The	_	_
+11	2	document	ARG1	ARG1
+11	3	was	_	_
+11	4	signed	_	_
+11	5	by	_	_
+11	6	the	_	_
+11	7	manager	ARG0	ARG0
+11	8	.	_	_
+
+12	1	The	_	_
+12	2	document	ARG1	ARG1
+12	3	was	_	_
+12	4	sgiend	_	_
+12	5	by	_	_
+12	6	the	_	_
+12	7	manager	ARG0	ARG0
+12	8	.	_	_
+
+13	1	The	_	_
+13	2	car	ARG1	ARG1
+13	3	was	_	_
+13	4	repaired	_	_
+13	5	by	_	_
+13	6	the	_	_
+13	7	mechanic	ARG0	ARG0
+13	8	.	_	_
+
+14	1	The	_	_
+14	2	car	ARG1	ARG1
+14	3	was	_	_
+14	4	rpeaired	_	_
+14	5	by	_	_
+14	6	the	_	_
+14	7	mechanic	ARG0	ARG0
+14	8	.	_	_
+
+15	1	The	_	_
+15	2	house	ARG1	ARG1
+15	3	was	_	_
+15	4	painted	_	_
+15	5	by	_	_
+15	6	the	_	_
+15	7	contractor	ARG0	ARG0
+15	8	.	_	_
+
+16	1	The	_	_
+16	2	house	ARG1	ARG1
+16	3	was	_	_
+16	4	pianted	_	_
+16	5	by	_	_
+16	6	the	_	_
+16	7	contractor	ARG0	ARG0
+16	8	.	_	_
+
+17	1	The	_	_
+17	2	book	ARG1	ARG1
+17	3	was	_	_
+17	4	published	_	_
+17	5	by	_	_
+17	6	the	_	_
+17	7	author	ARG0	ARG0
+17	8	.	_	_
+
+18	1	The	_	_
+18	2	book	ARG1	ARG1
+18	3	was	_	_
+18	4	pbuilsed	_	_
+18	5	by	_	_
+18	6	the	_	_
+18	7	author	ARG0	ARG0
+18	8	.	_	_
+
+19	1	The	_	_
+19	2	data	ARG1	ARG1
+19	3	was	_	_
+19	4	analyzed	_	_
+19	5	by	_	_
+19	6	the	_	_
+19	7	scientist	ARG0	ARG0
+19	8	.	_	_
+
+20	1	The	_	_
+20	2	data	ARG1	ARG1
+20	3	was	_	_
+20	4	anaylzed	_	_
+20	5	by	_	_
+20	6	the	_	_
+20	7	scientist	ARG0	ARG0
+20	8	.	_	_
+

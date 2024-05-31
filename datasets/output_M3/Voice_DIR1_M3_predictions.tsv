@@ -1,0 +1,180 @@
+1	1	The	_	_
+1	2	letter	_	ARG1
+1	3	was	_	_
+1	4	written	_	_
+1	5	by	_	_
+1	6	the	_	_
+1	7	author	ARG0	ARG0
+1	8	.	_	_
+
+2	1	The	_	_
+2	2	letter	_	ARG1
+2	3	was	_	_
+2	4	written	_	_
+2	5	for	_	_
+2	6	the	_	_
+2	7	author	ARG2	ARG2
+2	8	.	_	_
+
+3	1	The	_	_
+3	2	song	_	ARG1
+3	3	was	_	_
+3	4	sung	_	_
+3	5	by	_	_
+3	6	the	_	_
+3	7	performer	ARG0	ARG0
+3	8	.	_	_
+
+4	1	The	_	_
+4	2	song	_	ARG1
+4	3	was	_	_
+4	4	sung	_	_
+4	5	for	_	_
+4	6	the	_	_
+4	7	performer	ARG2	ARG2
+4	8	.	_	_
+
+5	1	The	_	_
+5	2	meal	_	ARG1
+5	3	was	_	_
+5	4	cooked	_	_
+5	5	by	_	_
+5	6	the	_	_
+5	7	chef	ARG0	ARG0
+5	8	.	_	_
+
+6	1	The	_	_
+6	2	meal	_	ARG1
+6	3	was	_	_
+6	4	cooked	_	_
+6	5	for	_	_
+6	6	the	_	_
+6	7	chef	ARG2	ARG2
+6	8	.	_	_
+
+7	1	The	_	_
+7	2	report	_	ARG1
+7	3	was	_	_
+7	4	completed	_	_
+7	5	by	_	_
+7	6	the	_	_
+7	7	employee	ARG0	ARG0
+7	8	.	_	_
+
+8	1	The	_	_
+8	2	report	_	ARG1
+8	3	was	_	_
+8	4	completed	_	_
+8	5	for	_	_
+8	6	the	_	_
+8	7	employee	ARG2	ARG2
+8	8	.	_	_
+
+9	1	The	_	_
+9	2	painting	_	ARG1
+9	3	was	_	_
+9	4	created	_	_
+9	5	by	_	_
+9	6	the	_	_
+9	7	artist	ARG0	ARG0
+9	8	.	_	_
+
+10	1	The	_	_
+10	2	painting	_	ARG1
+10	3	was	_	_
+10	4	created	_	_
+10	5	for	_	_
+10	6	the	_	_
+10	7	artist	ARG2	ARG2
+10	8	.	_	_
+
+11	1	The	_	_
+11	2	program	_	ARG1
+11	3	was	_	_
+11	4	developed	_	_
+11	5	by	_	_
+11	6	the	_	_
+11	7	programmer	ARG0	ARG0
+11	8	.	_	_
+
+12	1	The	_	_
+12	2	program	_	ARG1
+12	3	was	_	_
+12	4	developed	_	_
+12	5	for	_	_
+12	6	the	_	_
+12	7	programmer	ARG2	ARG2
+12	8	.	_	_
+
+13	1	The	_	_
+13	2	garden	_	ARG1
+13	3	was	_	_
+13	4	decorated	_	_
+13	5	by	_	_
+13	6	the	_	_
+13	7	gardener	ARG0	ARG0
+13	8	.	_	_
+
+14	1	The	_	_
+14	2	garden	_	ARG1
+14	3	was	_	_
+14	4	decorated	_	_
+14	5	for	_	_
+14	6	the	_	_
+14	7	gardener	ARG2	ARG2
+14	8	.	_	_
+
+15	1	The	_	_
+15	2	project	_	ARG1
+15	3	was	_	_
+15	4	led	_	_
+15	5	by	_	_
+15	6	the	_	_
+15	7	manager	ARG0	ARG0
+15	8	.	_	_
+
+16	1	The	_	_
+16	2	project	_	ARG1
+16	3	was	_	_
+16	4	led	_	_
+16	5	for	_	_
+16	6	the	_	_
+16	7	manager	ARG2	ARG2
+16	8	.	_	_
+
+17	1	The	_	_
+17	2	book	_	ARG1
+17	3	was	_	_
+17	4	reviewed	_	_
+17	5	by	_	_
+17	6	the	_	_
+17	7	critic	ARG0	ARG0
+17	8	.	_	_
+
+18	1	The	_	_
+18	2	book	_	ARG1
+18	3	was	_	_
+18	4	reviewed	_	_
+18	5	for	_	_
+18	6	the	_	_
+18	7	critic	ARG2	ARG2
+18	8	.	_	_
+
+19	1	The	_	_
+19	2	documentary	_	ARG1
+19	3	was	_	_
+19	4	filmed	_	_
+19	5	by	_	_
+19	6	the	_	_
+19	7	director	ARG0	ARG0
+19	8	.	_	_
+
+20	1	The	_	_
+20	2	documentary	_	ARG1
+20	3	was	_	_
+20	4	filmed	_	_
+20	5	for	_	_
+20	6	the	_	_
+20	7	director	ARG2	ARG2
+20	8	.	_	_
+

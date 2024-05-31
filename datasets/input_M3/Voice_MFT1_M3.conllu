@@ -1,0 +1,271 @@
+1	1	The	_
+1	2	wild	_
+1	3	cat	ARG0
+1	4	aggressively	_
+1	5	[PRED] chased	_
+1	6	the	_
+1	7	nimble	_
+1	8	mouse	ARG1
+1	9	through	_
+1	10	the	_
+1	11	dense	_
+1	12	undergrowth	_
+1	13	.	_
+
+2	1	A	_
+2	2	skilled	_
+2	3	chef	ARG0
+2	4	meticulously	_
+2	5	[PRED] prepared	_
+2	6	the	_
+2	7	exquisite	_
+2	8	meal	ARG1
+2	9	for	_
+2	10	the	_
+2	11	distinguished	_
+2	12	guests	_
+2	13	.	_
+
+3	1	The	_
+3	2	dedicated	_
+3	3	teacher	ARG0
+3	4	diligently	_
+3	5	[PRED] graded	_
+3	6	the	_
+3	7	challenging	_
+3	8	tests	ARG1
+3	9	to	_
+3	10	provide	_
+3	11	constructive	_
+3	12	feedback	_
+3	13	.	_
+
+4	1	An	_
+4	2	excited	_
+4	3	child	ARG0
+4	4	joyfully	_
+4	5	[PRED] found	_
+4	6	the	_
+4	7	hidden	_
+4	8	toy	ARG1
+4	9	under	_
+4	10	the	_
+4	11	colorful	_
+4	12	blankets	_
+4	13	.	_
+
+5	1	The	_
+5	2	talented	_
+5	3	artist	ARG0
+5	4	meticulously	_
+5	5	[PRED] painted	_
+5	6	the	_
+5	7	vibrant	_
+5	8	canvas	ARG1
+5	9	with	_
+5	10	intricate	_
+5	11	details	_
+5	12	.	_
+
+6	1	A	_
+6	2	diligent	_
+6	3	gardener	ARG0
+6	4	carefully	_
+6	5	[PRED] watered	_
+6	6	the	_
+6	7	delicate	_
+6	8	flowers	ARG1
+6	9	in	_
+6	10	the	_
+6	11	lush	_
+6	12	garden	_
+6	13	.	_
+
+7	1	The	_
+7	2	astute	_
+7	3	detective	ARG0
+7	4	cleverly	_
+7	5	[PRED] solved	_
+7	6	the	_
+7	7	perplexing	_
+7	8	mystery	ARG1
+7	9	with	_
+7	10	logical	_
+7	11	deduction	_
+7	12	.	_
+
+8	1	An	_
+8	2	enthusiastic	_
+8	3	tourist	ARG0
+8	4	eagerly	_
+8	5	[PRED] photographed	_
+8	6	the	_
+8	7	historic	_
+8	8	monument	ARG1
+8	9	against	_
+8	10	the	_
+8	11	picturesque	_
+8	12	backdrop	_
+8	13	.	_
+
+9	1	The	_
+9	2	prolific	_
+9	3	author	ARG0
+9	4	successfully	_
+9	5	[PRED] published	_
+9	6	the	_
+9	7	highly	_
+9	8	anticipated	_
+9	9	book	ARG1
+9	10	.	_
+
+10	1	A	_
+10	2	dedicated	_
+10	3	student	ARG0
+10	4	diligently	_
+10	5	[PRED] submitted	_
+10	6	the	_
+10	7	meticulously	_
+10	8	prepared	_
+10	9	assignment	ARG1
+10	10	ahead	_
+10	11	of	_
+10	12	schedule	_
+10	13	.	_
+
+11	1	The	_
+11	2	talented	_
+11	3	musician	ARG0
+11	4	passionately	_
+11	5	[PRED] played	_
+11	6	the	_
+11	7	soulful	_
+11	8	melody	ARG1
+11	9	on	_
+11	10	the	_
+11	11	acoustic	_
+11	12	guitar	_
+11	13	.	_
+
+12	1	A	_
+12	2	determined	_
+12	3	runner	ARG0
+12	4	valiantly	_
+12	5	[PRED] finished	_
+12	6	the	_
+12	7	grueling	_
+12	8	race	ARG1
+12	9	despite	_
+12	10	the	_
+12	11	scorching	_
+12	12	heat	_
+12	13	.	_
+
+13	1	The	_
+13	2	brilliant	_
+13	3	scientist	ARG0
+13	4	meticulously	_
+13	5	[PRED] researched	_
+13	6	the	_
+13	7	groundbreaking	_
+13	8	theory	ARG1
+13	9	with	_
+13	10	his	_
+13	11	friends	_
+13	12	.	_
+
+14	1	An	_
+14	2	experienced	_
+14	3	baker	ARG0
+14	4	skillfully	_
+14	5	[PRED] baked	_
+14	6	the	_
+14	7	delicious	_
+14	8	cake	ARG1
+14	9	with	_
+14	10	precision	_
+14	11	and	_
+14	12	care	_
+14	13	.	_
+
+15	1	The	_
+15	2	diligent	_
+15	3	programmer	ARG0
+15	4	tirelessly	_
+15	5	[PRED] debugged	_
+15	6	the	_
+15	7	complex	_
+15	8	code	ARG1
+15	9	until	_
+15	10	it	_
+15	11	was	_
+15	12	flawless	_
+15	13	.	_
+
+16	1	A	_
+16	2	creative	_
+16	3	designer	ARG0
+16	4	elegantly	_
+16	5	[PRED] decorated	_
+16	6	the	_
+16	7	spacious	_
+16	8	room	ARG1
+16	9	with	_
+16	10	modern	_
+16	11	furnishings	_
+16	12	.	_
+
+17	1	The	_
+17	2	experienced	_
+17	3	driver	ARG0
+17	4	expertly	_
+17	5	[PRED] towed	_
+17	6	the	_
+17	7	stranded	_
+17	8	vehicle	ARG1
+17	9	to	_
+17	10	safety	_
+17	11	.	_
+
+18	1	A	_
+18	2	skilled	_
+18	3	builder	ARG0
+18	4	meticulously	_
+18	5	[PRED] constructed	_
+18	6	the	_
+18	7	sturdy	_
+18	8	house	ARG1
+18	9	using	_
+18	10	high-quality	_
+18	11	materials	_
+18	12	.	_
+
+19	1	The	_
+19	2	diligent	_
+19	3	farmer	ARG0
+19	4	tirelessly	_
+19	5	[PRED] harvested	_
+19	6	the	_
+19	7	ripe	_
+19	8	crops	ARG1
+19	9	from	_
+19	10	the	_
+19	11	fertile	_
+19	12	fields	_
+19	13	.	_
+
+20	1	A	_
+20	2	librarian	ARG0
+20	3	meticulously	_
+20	4	[PRED] organized	_
+20	5	the	_
+20	6	extensive	_
+20	7	collection	ARG1
+20	8	of	_
+20	9	books	_
+20	10	according	_
+20	11	to	_
+20	12	genre	_
+20	13	and	_
+20	14	author	_
+20	15	.	_

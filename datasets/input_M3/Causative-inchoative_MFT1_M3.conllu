@@ -1,0 +1,165 @@
+1	1	The	_
+1	2	chef	ARG0
+1	3	deliberately	_
+1	4	[PRED] cracked	_
+1	5	the	_
+1	6	egg	ARG1
+1	7	.	_
+
+2	1	The	_
+2	2	sculptor	ARG0
+2	3	meticulously	_
+2	4	[PRED] broke	_
+2	5	the	_
+2	6	block	ARG1
+2	7	of	_
+2	8	marble	_
+2	9	.	_
+
+3	1	The	_
+3	2	child	ARG0
+3	3	intentionally	_
+3	4	[PRED] shattered	_
+3	5	the	_
+3	6	glass	ARG1
+3	7	.	_
+
+4	1	The	_
+4	2	soldier	ARG0
+4	3	forcefully	_
+4	4	[PRED] smashed	_
+4	5	the	_
+4	6	door	ARG1
+4	7	.	_
+
+5	1	The	_
+5	2	hiker	ARG0
+5	3	skillfully	_
+5	4	[PRED] split	_
+5	5	the	_
+5	6	wood	ARG1
+5	7	.	_
+
+6	1	The	_
+6	2	tailor	ARG0
+6	3	carefully	_
+6	4	[PRED] ripped	_
+6	5	the	_
+6	6	cloth	ARG1
+6	7	.	_
+
+7	1	The	_
+7	2	driver	ARG0
+7	3	recklessly	_
+7	4	[PRED] crashed	_
+7	5	the	_
+7	6	car	ARG1
+7	7	.	_
+
+8	1	The	_
+8	2	carpenter	ARG0
+8	3	precisely	_
+8	4	[PRED] splintered	_
+8	5	the	_
+8	6	wood	ARG1
+8	7	.	_
+
+9	1	The	_
+9	2	teacher	ARG0
+9	3	angrily	_
+9	4	[PRED] tore	_
+9	5	the	_
+9	6	page	ARG1
+9	7	.	_
+
+10	1	The	_
+10	2	farmer	ARG0
+10	3	diligently	_
+10	4	[PRED] broke	_
+10	5	the	_
+10	6	ground	ARG1
+10	7	.	_
+
+11	1	The	_
+11	2	earthquake	ARG0
+11	3	violently	_
+11	4	[PRED] snapped	_
+11	5	the	_
+11	6	lock	ARG1
+11	7	.	_
+
+12	1	A	_
+12	2	power	_
+12	3	surge	ARG0
+12	4	suddenly	_
+12	5	[PRED] broke	_
+12	6	down	_
+12	7	the	_
+12	8	machine	ARG1
+12	9	.	_
+
+13	1	Erosion	ARG0
+13	2	slowly	_
+13	3	[PRED] fissured	_
+13	4	the	_
+13	5	rock	ARG1
+13	6	.	_
+
+14	1	An	_
+14	2	elbow	ARG0
+14	3	[PRED] fractured	_
+14	4	the	_
+14	5	opponent	_
+14	6	's	_
+14	7	nose	ARG1
+14	8	.	_
+
+15	1	Strength	ARG0
+15	2	finally	_
+15	3	[PRED] broke	_
+15	4	up	_
+15	5	the	_
+15	6	engine	ARG1
+15	7	.	_
+
+16	1	The	_
+16	2	wind	ARG0
+16	3	[PRED] slivered	_
+16	4	the	_
+16	5	clay	ARG1
+16	6	.	_
+
+17	1	Warm	_
+17	2	water	ARG0
+17	3	quickly	_
+17	4	[PRED] dissolved	_
+17	5	the	_
+17	6	sugar	ARG1
+17	7	.	_
+
+18	1	The	_
+18	2	elements	ARG0
+18	3	[PRED] chipped	_
+18	4	the	_
+18	5	surface	ARG1
+18	6	of	_
+18	7	the	_
+18	8	rock	_
+18	9	.	_
+
+19	1	The	_
+19	2	blades	ARG0
+19	3	efficiently	_
+19	4	[PRED] shred	_
+19	5	the	_
+19	6	leaves	ARG1
+19	7	.	_
+
+20	1	The	_
+20	2	powerful	_
+20	3	sound	_
+20	4	system	ARG0
+20	5	[PRED] rended	_
+20	6	the	_
+20	7	air	ARG1
+20	8	.	_

@@ -1,0 +1,304 @@
+61	1	The	_
+61	2	egg	ARG1
+61	3	[PRED] cracked	_
+61	4	.	_
+
+62	1	The	_
+62	2	egg	ARG1
+62	3	,	_
+62	4	which	_
+62	5	had	_
+62	6	been	_
+62	7	sitting	_
+62	8	at	_
+62	9	room	_
+62	10	temperature	_
+62	11	for	_
+62	12	several	_
+62	13	hours	_
+62	14	,	_
+62	15	finally	_
+62	16	[PRED] cracked	_
+62	17	when	_
+62	18	it	_
+62	19	was	_
+62	20	accidentally	_
+62	21	dropped	_
+62	22	onto	_
+62	23	the	_
+62	24	hard	_
+62	25	kitchen	_
+62	26	floor	_
+62	27	.	_
+
+63	1	The	_
+63	2	glass	ARG1
+63	3	[PRED] shattered	_
+63	4	.	_
+
+64	1	The	_
+64	2	glass	ARG1
+64	3	[PRED] shattered	_
+64	4	into	_
+64	5	countless	_
+64	6	pieces	_
+64	7	when	_
+64	8	the	_
+64	9	sudden	_
+64	10	,	_
+64	11	fierce	_
+64	12	vibration	_
+64	13	of	_
+64	14	the	_
+64	15	passing	_
+64	16	train	_
+64	17	caused	_
+64	18	it	_
+64	19	to	_
+64	20	fall	_
+64	21	off	_
+64	22	the	_
+64	23	windowsill	_
+64	24	.	_
+
+65	1	The	_
+65	2	wood	ARG1
+65	3	[PRED] split	_
+65	4	.	_
+
+66	1	Amid	_
+66	2	the	_
+66	3	cold	_
+66	4	,	_
+66	5	harsh	_
+66	6	winter	_
+66	7	night	_
+66	8	,	_
+66	9	the	_
+66	10	wood	ARG1
+66	11	[PRED] split	_
+66	12	loudly	_
+66	13	,	_
+66	14	echoing	_
+66	15	through	_
+66	16	the	_
+66	17	empty	_
+66	18	forest	_
+66	19	as	_
+66	20	temperatures	_
+66	21	plummeted	_
+66	22	below	_
+66	23	freezing	_
+66	24	.	_
+
+67	1	The	_
+67	2	cloth	ARG1
+67	3	[PRED] ripped	_
+67	4	.	_
+
+68	1	As	_
+68	2	the	_
+68	3	wind	_
+68	4	furiously	_
+68	5	whipped	_
+68	6	through	_
+68	7	the	_
+68	8	narrow	_
+68	9	alley	_
+68	10	,	_
+68	11	the	_
+68	12	cloth	ARG1
+68	13	[PRED] ripped	_
+68	14	from	_
+68	15	the	_
+68	16	sheer	_
+68	17	force	_
+68	18	,	_
+68	19	leaving	_
+68	20	tatters	_
+68	21	flying	_
+68	22	in	_
+68	23	the	_
+68	24	air	_
+68	25	.	_
+
+69	1	The	_
+69	2	car	ARG1
+69	3	[PRED] crashed	_
+69	4	.	_
+
+70	1	The	_
+70	2	car	ARG1
+70	3	[PRED] crashed	_
+70	4	with	_
+70	5	such	_
+70	6	force	_
+70	7	that	_
+70	8	it	_
+70	9	immediately	_
+70	10	crumpled	_
+70	11	upon	_
+70	12	impact	_
+70	13	,	_
+70	14	skidding	_
+70	15	to	_
+70	16	a	_
+70	17	halt	_
+70	18	in	_
+70	19	the	_
+70	20	middle	_
+70	21	of	_
+70	22	the	_
+70	23	deserted	_
+70	24	highway	_
+70	25	.	_
+
+71	1	The	_
+71	2	wood	ARG1
+71	3	[PRED] splintered	_
+71	4	.	_
+
+72	1	The	_
+72	2	wood	ARG1
+72	3	[PRED] splintered	_
+72	4	into	_
+72	5	sharp	_
+72	6	fragments	_
+72	7	as	_
+72	8	the	_
+72	9	ancient	_
+72	10	tree	_
+72	11	,	_
+72	12	finally	_
+72	13	succumbing	_
+72	14	to	_
+72	15	the	_
+72	16	relentless	_
+72	17	pressure	_
+72	18	of	_
+72	19	the	_
+72	20	windstorm	_
+72	21	,	_
+72	22	fractured	_
+72	23	along	_
+72	24	its	_
+72	25	length	_
+72	26	.	_
+
+73	1	The	_
+73	2	page	ARG1
+73	3	[PRED] tore	_
+73	4	.	_
+
+74	1	As	_
+74	2	she	_
+74	3	turned	_
+74	4	the	_
+74	5	page	ARG1
+74	6	too	_
+74	7	hastily	_
+74	8	,	_
+74	9	eager	_
+74	10	to	_
+74	11	discover	_
+74	12	the	_
+74	13	climax	_
+74	14	in	_
+74	15	the	_
+74	16	book	_
+74	17	,	_
+74	18	the	_
+74	19	page	ARG1
+74	20	[PRED] tore	_
+74	21	.	_
+
+75	1	The	_
+75	2	lock	ARG1
+75	3	[PRED] snapped	_
+75	4	.	_
+
+76	1	Under	_
+76	2	the	_
+76	3	relentless	_
+76	4	manipulation	_
+76	5	of	_
+76	6	the	_
+76	7	determined	_
+76	8	thief	_
+76	9	,	_
+76	10	the	_
+76	11	lock	ARG1
+76	12	[PRED] snapped	_
+76	13	with	_
+76	14	a	_
+76	15	barely	_
+76	16	audible	_
+76	17	click	_
+76	18	,	_
+76	19	granting	_
+76	20	unauthorized	_
+76	21	access	_
+76	22	into	_
+76	23	the	_
+76	24	shadowed	_
+76	25	interior	_
+76	26	.	_
+
+77	1	The	_
+77	2	sugar	ARG1
+77	3	[PRED] dissolved	_
+77	4	.	_
+
+78	1	As	_
+78	2	she	_
+78	3	absentmindedly	_
+78	4	stirred	_
+78	5	her	_
+78	6	tea	_
+78	7	,	_
+78	8	watching	_
+78	9	the	_
+78	10	storm	_
+78	11	rage	_
+78	12	outside	_
+78	13	,	_
+78	14	the	_
+78	15	sugar	ARG1
+78	16	[PRED] dissolved	_
+78	17	completely	_
+78	18	,	_
+78	19	leaving	_
+78	20	no	_
+78	21	trace	_
+78	22	behind	_
+78	23	.	_
+
+79	1	The	_
+79	2	leaves	ARG1
+79	3	[PRED] shredded	_
+79	4	.	_
+
+80	1	Caught	_
+80	2	in	_
+80	3	the	_
+80	4	merciless	_
+80	5	blades	_
+80	6	of	_
+80	7	the	_
+80	8	lawn	_
+80	9	mower	_
+80	10	,	_
+80	11	the	_
+80	12	leaves	ARG1
+80	13	[PRED] shredded	_
+80	14	into	_
+80	15	fine	_
+80	16	pieces	_
+80	17	,	_
+80	18	scattering	_
+80	19	across	_
+80	20	the	_
+80	21	freshly	_
+80	22	cut	_
+80	23	grass	_
+80	24	.	_

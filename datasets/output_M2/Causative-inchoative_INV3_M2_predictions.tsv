@@ -1,0 +1,124 @@
+1	1	The	_	_
+1	2	egg	ARG1	ARG1
+1	3	cracked	_	_
+1	4	.	_	_
+
+2	1	The	_	_
+2	2	egg	ARG1	ARG1
+2	3	did	_	_
+2	4	n't	_	ARGM-NEG
+2	5	crack	_	_
+2	6	.	_	_
+
+3	1	The	_	_
+3	2	block	ARG1	ARG1
+3	3	of	_	_
+3	4	marble	_	_
+3	5	broke	_	_
+3	6	.	_	_
+
+4	1	The	_	_
+4	2	block	ARG1	ARG1
+4	3	of	_	_
+4	4	marble	_	_
+4	5	did	_	_
+4	6	n't	_	ARGM-NEG
+4	7	break	_	_
+4	8	.	_	_
+
+5	1	The	_	_
+5	2	car	ARG1	ARG1
+5	3	crashed	_	_
+5	4	.	_	_
+
+6	1	The	_	_
+6	2	car	ARG1	ARG1
+6	3	did	_	_
+6	4	n't	_	ARGM-NEG
+6	5	crash	_	_
+6	6	.	_	_
+
+7	1	The	_	_
+7	2	wood	ARG1	ARG1
+7	3	splintered	_	_
+7	4	.	_	_
+
+8	1	The	_	_
+8	2	wood	ARG1	ARG1
+8	3	did	_	_
+8	4	n't	_	ARGM-NEG
+8	5	splinter	_	_
+8	6	.	_	_
+
+9	1	The	_	_
+9	2	page	ARG1	ARG1
+9	3	tore	_	_
+9	4	.	_	_
+
+10	1	The	_	_
+10	2	page	ARG1	ARG1
+10	3	did	_	_
+10	4	n't	_	ARGM-NEG
+10	5	tear	_	_
+10	6	.	_	_
+
+11	1	The	_	_
+11	2	lock	ARG1	ARG1
+11	3	snapped	_	_
+11	4	.	_	_
+
+12	1	The	_	_
+12	2	lock	ARG1	ARG1
+12	3	did	_	_
+12	4	n't	_	ARGM-NEG
+12	5	snap	_	_
+12	6	.	_	_
+
+13	1	The	_	_
+13	2	rock	ARG1	ARG1
+13	3	fissured	_	_
+13	4	.	_	_
+
+14	1	The	_	_
+14	2	rock	ARG1	ARG1
+14	3	did	_	_
+14	4	n't	_	ARGM-NEG
+14	5	fissure	_	_
+14	6	.	_	_
+
+15	1	The	_	_
+15	2	sugar	ARG1	ARG1
+15	3	dissolved	_	_
+15	4	.	_	_
+
+16	1	The	_	_
+16	2	sugar	ARG1	ARG1
+16	3	did	_	_
+16	4	n't	_	ARGM-NEG
+16	5	dissolve	_	_
+16	6	.	_	_
+
+17	1	The	_	_
+17	2	leaves	ARG1	ARG1
+17	3	shredded	_	_
+17	4	.	_	_
+
+18	1	The	_	_
+18	2	leaves	ARG1	ARG1
+18	3	did	_	_
+18	4	n't	_	ARGM-NEG
+18	5	shred	_	_
+18	6	.	_	_
+
+19	1	The	_	_
+19	2	air	ARG1	ARG1
+19	3	rended	_	_
+19	4	.	_	_
+
+20	1	The	_	_
+20	2	air	ARG1	ARG1
+20	3	did	_	_
+20	4	n't	_	ARGM-NEG
+20	5	rend	_	_
+20	6	.	_	_
+

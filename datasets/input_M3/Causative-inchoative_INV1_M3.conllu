@@ -1,0 +1,339 @@
+41	1	The	_
+41	2	chef	ARG0
+41	3	[PRED] cracked	_
+41	4	the	_
+41	5	egg	ARG1
+41	6	.	_
+
+42	1	The	_
+42	2	chef	ARG0
+42	3	,	_
+42	4	with	_
+42	5	years	_
+42	6	of	_
+42	7	experience	_
+42	8	under	_
+42	9	his	_
+42	10	belt	_
+42	11	,	_
+42	12	deliberately	_
+42	13	[PRED] cracked	_
+42	14	the	_
+42	15	egg	ARG1
+42	16	with	_
+42	17	a	_
+42	18	practiced	_
+42	19	flick	_
+42	20	of	_
+42	21	his	_
+42	22	wrist	_
+42	23	.	_
+
+43	1	The	_
+43	2	sculptor	ARG0
+43	3	[PRED] broke	_
+43	4	the	_
+43	5	block	ARG1
+43	6	of	_
+43	7	marble	_
+43	8	.	_
+
+44	1	The	_
+44	2	sculptor	ARG0
+44	3	,	_
+44	4	whose	_
+44	5	skills	_
+44	6	have	_
+44	7	been	_
+44	8	honed	_
+44	9	through	_
+44	10	countless	_
+44	11	hours	_
+44	12	of	_
+44	13	work	_
+44	14	,	_
+44	15	meticulously	_
+44	16	[PRED] broke	_
+44	17	the	_
+44	18	block	ARG1
+44	19	of	_
+44	20	marble	_
+44	21	to	_
+44	22	begin	_
+44	23	his	_
+44	24	latest	_
+44	25	masterpiece	_
+44	26	.	_
+
+45	1	The	_
+45	2	child	ARG0
+45	3	[PRED] shattered	_
+45	4	the	_
+45	5	glass	ARG1
+45	6	.	_
+
+46	1	The	_
+46	2	child	ARG0
+46	3	,	_
+46	4	acting	_
+46	5	with	_
+46	6	a	_
+46	7	mischievous	_
+46	8	intent	_
+46	9	that	_
+46	10	belied	_
+46	11	his	_
+46	12	innocent	_
+46	13	appearance	_
+46	14	,	_
+46	15	intentionally	_
+46	16	[PRED] shattered	_
+46	17	the	_
+46	18	glass	ARG1
+46	19	with	_
+46	20	a	_
+46	21	well-aimed	_
+46	22	throw	_
+46	23	.	_
+
+47	1	The	_
+47	2	earthquake	ARG0
+47	3	[PRED] snapped	_
+47	4	the	_
+47	5	lock	ARG1
+47	6	.	_
+
+48	1	The	_
+48	2	earthquake	ARG0
+48	3	,	_
+48	4	releasing	_
+48	5	the	_
+48	6	energy	_
+48	7	of	_
+48	8	the	_
+48	9	earth	_
+48	10	,	_
+48	11	violently	_
+48	12	[PRED] snapped	_
+48	13	the	_
+48	14	lock	ARG1
+48	15	off	_
+48	16	the	_
+48	17	door	_
+48	18	as	_
+48	19	if	_
+48	20	it	_
+48	21	were	_
+48	22	made	_
+48	23	of	_
+48	24	brittle	_
+48	25	twig	_
+48	26	.	_
+
+49	1	A	_
+49	2	power	_
+49	3	surge	ARG0
+49	4	[PRED] broke	_
+49	5	down	_
+49	6	the	_
+49	7	machine	ARG1
+49	8	.	_
+
+50	1	A	_
+50	2	power	_
+50	3	surge	ARG0
+50	4	,	_
+50	5	striking	_
+50	6	unexpectedly	_
+50	7	in	_
+50	8	the	_
+50	9	dead	_
+50	10	of	_
+50	11	night	_
+50	12	,	_
+50	13	suddenly	_
+50	14	[PRED] broke	_
+50	15	down	_
+50	16	the	_
+50	17	machine	ARG1
+50	18	,	_
+50	19	leaving	_
+50	20	the	_
+50	21	workshop	_
+50	22	in	_
+50	23	silence	_
+50	24	.	_
+
+51	1	Erosion	ARG0
+51	2	[PRED] fissured	_
+51	3	the	_
+51	4	rock	ARG1
+51	5	.	_
+
+52	1	Erosion	ARG0
+52	2	,	_
+52	3	the	_
+52	4	slow	_
+52	5	but	_
+52	6	unstoppable	_
+52	7	force	_
+52	8	of	_
+52	9	nature	_
+52	10	,	_
+52	11	slowly	_
+52	12	[PRED] fissured	_
+52	13	the	_
+52	14	rock	ARG1
+52	15	,	_
+52	16	carving	_
+52	17	intricate	_
+52	18	patterns	_
+52	19	that	_
+52	20	told	_
+52	21	the	_
+52	22	tale	_
+52	23	of	_
+52	24	centuries	_
+52	25	.	_
+
+53	1	An	_
+53	2	elbow	ARG0
+53	3	[PRED] fractured	_
+53	4	the	_
+53	5	opponent	_
+53	6	's	_
+53	7	nose	ARG1
+53	8	.	_
+
+54	1	In	_
+54	2	the	_
+54	3	heat	_
+54	4	of	_
+54	5	the	_
+54	6	competition	_
+54	7	,	_
+54	8	an	_
+54	9	elbow	ARG0
+54	10	,	_
+54	11	thrown	_
+54	12	with	_
+54	13	more	_
+54	14	force	_
+54	15	than	_
+54	16	intended	_
+54	17	,	_
+54	18	[PRED] fractured	_
+54	19	the	_
+54	20	opponent	_
+54	21	's	_
+54	22	nose	ARG1
+54	23	,	_
+54	24	bringing	_
+54	25	the	_
+54	26	match	_
+54	27	to	_
+54	28	a	_
+54	29	sudden	_
+54	30	,	_
+54	31	painful	_
+54	32	halt	_
+54	33	.	_
+
+55	1	The	_
+55	2	wind	ARG0
+55	3	[PRED] slivered	_
+55	4	the	_
+55	5	clay	ARG1
+55	6	.	_
+
+56	1	The	_
+56	2	wind	ARG0
+56	3	,	_
+56	4	playful	_
+56	5	yet	_
+56	6	persistent	_
+56	7	in	_
+56	8	its	_
+56	9	efforts	_
+56	10	,	_
+56	11	[PRED] slivered	_
+56	12	the	_
+56	13	clay	ARG1
+56	14	,	_
+56	15	shaping	_
+56	16	it	_
+56	17	into	_
+56	18	thin	_
+56	19	strips	_
+56	20	that	_
+56	21	danced	_
+56	22	in	_
+56	23	the	_
+56	24	air	_
+56	25	.	_
+
+57	1	Warm	_
+57	2	water	ARG0
+57	3	[PRED] dissolved	_
+57	4	the	_
+57	5	sugar	ARG1
+57	6	.	_
+
+58	1	Warm	_
+58	2	water	ARG0
+58	3	,	_
+58	4	poured	_
+58	5	from	_
+58	6	the	_
+58	7	kettle	_
+58	8	with	_
+58	9	a	_
+58	10	steady	_
+58	11	hand	_
+58	12	,	_
+58	13	quickly	_
+58	14	[PRED] dissolved	_
+58	15	the	_
+58	16	sugar	ARG1
+58	17	,	_
+58	18	blending	_
+58	19	it	_
+58	20	seamlessly	_
+58	21	into	_
+58	22	the	_
+58	23	tea	_
+58	24	.	_
+
+59	1	The	_
+59	2	blades	ARG0
+59	3	[PRED] shred	_
+59	4	the	_
+59	5	leaves	ARG1
+59	6	.	_
+
+60	1	The	_
+60	2	blades	ARG0
+60	3	,	_
+60	4	part	_
+60	5	of	_
+60	6	the	_
+60	7	tools	_
+60	8	,	_
+60	9	efficiently	_
+60	10	[PRED] shred	_
+60	11	the	_
+60	12	leaves	ARG1
+60	13	,	_
+60	14	reducing	_
+60	15	the	_
+60	16	fallen	_
+60	17	foliage	_
+60	18	to	_
+60	19	a	_
+60	20	fine	_
+60	21	mulch	_
+60	22	for	_
+60	23	the	_
+60	24	garden	_
+60	25	beds	_
+60	26	.	_

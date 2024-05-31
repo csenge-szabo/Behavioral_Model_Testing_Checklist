@@ -1,0 +1,123 @@
+81	1	The	_
+81	2	egg	ARG1
+81	3	[PRED] cracked	_
+81	4	.	_
+
+82	1	The	_
+82	2	egg	ARG1
+82	3	did	_
+82	4	n't	_
+82	5	[PRED] crack	_
+82	6	.	_
+
+83	1	The	_
+83	2	block	ARG1
+83	3	of	_
+83	4	marble	_
+83	5	[PRED] broke	_
+83	6	.	_
+
+84	1	The	_
+84	2	block	ARG1
+84	3	of	_
+84	4	marble	_
+84	5	did	_
+84	6	n't	_
+84	7	[PRED] break	_
+84	8	.	_
+
+85	1	The	_
+85	2	car	ARG1
+85	3	[PRED] crashed	_
+85	4	.	_
+
+86	1	The	_
+86	2	car	ARG1
+86	3	did	_
+86	4	n't	_
+86	5	[PRED] crash	_
+86	6	.	_
+
+87	1	The	_
+87	2	wood	ARG1
+87	3	[PRED] splintered	_
+87	4	.	_
+
+88	1	The	_
+88	2	wood	ARG1
+88	3	did	_
+88	4	n't	_
+88	5	[PRED] splinter	_
+88	6	.	_
+
+89	1	The	_
+89	2	page	ARG1
+89	3	[PRED] tore	_
+89	4	.	_
+
+90	1	The	_
+90	2	page	ARG1
+90	3	did	_
+90	4	n't	_
+90	5	[PRED] tear	_
+90	6	.	_
+
+91	1	The	_
+91	2	lock	ARG1
+91	3	[PRED] snapped	_
+91	4	.	_
+
+92	1	The	_
+92	2	lock	ARG1
+92	3	did	_
+92	4	n't	_
+92	5	[PRED] snap	_
+92	6	.	_
+
+93	1	The	_
+93	2	rock	ARG1
+93	3	[PRED] fissured	_
+93	4	.	_
+
+94	1	The	_
+94	2	rock	ARG1
+94	3	did	_
+94	4	n't	_
+94	5	[PRED] fissure	_
+94	6	.	_
+
+95	1	The	_
+95	2	sugar	ARG1
+95	3	[PRED] dissolved	_
+95	4	.	_
+
+96	1	The	_
+96	2	sugar	ARG1
+96	3	did	_
+96	4	n't	_
+96	5	[PRED] dissolve	_
+96	6	.	_
+
+97	1	The	_
+97	2	leaves	ARG1
+97	3	[PRED] shredded	_
+97	4	.	_
+
+98	1	The	_
+98	2	leaves	ARG1
+98	3	did	_
+98	4	n't	_
+98	5	[PRED] shred	_
+98	6	.	_
+
+99	1	The	_
+99	2	air	ARG1
+99	3	[PRED] rended	_
+99	4	.	_
+
+100	1	The	_
+100	2	air	ARG1
+100	3	did	_
+100	4	n't	_
+100	5	[PRED] rend	_
+100	6	.	_

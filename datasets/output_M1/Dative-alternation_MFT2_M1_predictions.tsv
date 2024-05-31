@@ -1,0 +1,92 @@
+1	1	He	ARG0	ARG0
+1	2	gave	_	_
+1	3	the	_	_
+1	4	owner	ARG2	ARG2
+1	5	the	_	_
+1	6	keys	ARG1	ARG1
+1	7	.	_	_
+
+2	1	The	_	_
+2	2	librarian	ARG0	ARG0
+2	3	lent	_	_
+2	4	the	_	_
+2	5	researcher	ARG2	ARG2
+2	6	the	_	_
+2	7	rare	_	_
+2	8	book	ARG1	ARG1
+2	9	.	_	_
+
+3	1	The	_	_
+3	2	bank	ARG0	ARG0
+3	3	loaned	_	_
+3	4	the	_	_
+3	5	small	_	_
+3	6	business	_	_
+3	7	owner	ARG2	ARG2
+3	8	the	_	_
+3	9	money	ARG1	ARG1
+3	10	.	_	_
+
+4	1	The	_	_
+4	2	teacher	ARG0	ARG0
+4	3	passed	_	_
+4	4	the	_	_
+4	5	students	ARG2	ARG2
+4	6	the	_	_
+4	7	papers	ARG1	ARG1
+4	8	.	_	_
+
+5	1	The	_	_
+5	2	store	ARG0	ARG0
+5	3	refunded	_	_
+5	4	the	_	_
+5	5	customer	ARG2	ARG2
+5	6	the	_	_
+5	7	money	ARG1	ARG1
+5	8	.	_	_
+
+6	1	He	ARG0	ARG0
+6	2	peddled	_	_
+6	3	the	_	_
+6	4	investors	ARG2	ARG2
+6	5	the	_	_
+6	6	stock	ARG1	ARG1
+6	7	.	_	_
+
+7	1	The	_	_
+7	2	landlord	ARG0	ARG0
+7	3	leased	_	_
+7	4	the	_	_
+7	5	new	_	_
+7	6	tenants	ARG2	ARG1
+7	7	the	_	_
+7	8	apartment	ARG1	_
+7	9	.	_	_
+
+8	1	She	ARG0	ARG0
+8	2	let	_	_
+8	3	the	_	_
+8	4	visiting	_	_
+8	5	scholar	ARG2	ARG1
+8	6	the	_	_
+8	7	room	ARG1	ARG1
+8	8	.	_	_
+
+9	1	The	_	_
+9	2	homeowner	ARG0	ARG0
+9	3	rented	_	_
+9	4	the	_	_
+9	5	vacationers	ARG2	ARG1
+9	6	the	_	_
+9	7	cottage	ARG1	ARG1
+9	8	.	_	_
+
+10	1	The	_	_
+10	2	company	ARG0	ARG0
+10	3	sold	_	_
+10	4	the	_	_
+10	5	competitor	ARG2	ARG1
+10	6	the	_	_
+10	7	patent	ARG1	ARG1
+10	8	.	_	_
+

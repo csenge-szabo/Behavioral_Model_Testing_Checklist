@@ -1,0 +1,163 @@
+81	1	The	_
+81	2	egg	ARG1
+81	3	cracked	_
+81	4	.	_
+81	5	[SEP]	_
+81	6	cracked	_
+
+82	1	The	_
+82	2	egg	ARG1
+82	3	did	_
+82	4	n't	_
+82	5	crack	_
+82	6	.	_
+82	7	[SEP]	_
+82	8	crack	_
+
+83	1	The	_
+83	2	block	ARG1
+83	3	of	_
+83	4	marble	_
+83	5	broke	_
+83	6	.	_
+83	7	[SEP]	_
+83	8	broke	_
+
+84	1	The	_
+84	2	block	ARG1
+84	3	of	_
+84	4	marble	_
+84	5	did	_
+84	6	n't	_
+84	7	break	_
+84	8	.	_
+84	9	[SEP]	_
+84	10	break	_
+
+85	1	The	_
+85	2	car	ARG1
+85	3	crashed	_
+85	4	.	_
+85	5	[SEP]	_
+85	6	crashed	_
+
+86	1	The	_
+86	2	car	ARG1
+86	3	did	_
+86	4	n't	_
+86	5	crash	_
+86	6	.	_
+86	7	[SEP]	_
+86	8	crash	_
+
+87	1	The	_
+87	2	wood	ARG1
+87	3	splintered	_
+87	4	.	_
+87	5	[SEP]	_
+87	6	splintered	_
+
+88	1	The	_
+88	2	wood	ARG1
+88	3	did	_
+88	4	n't	_
+88	5	splinter	_
+88	6	.	_
+88	7	[SEP]	_
+88	8	splinter	_
+
+89	1	The	_
+89	2	page	ARG1
+89	3	tore	_
+89	4	.	_
+89	5	[SEP]	_
+89	6	tore	_
+
+90	1	The	_
+90	2	page	ARG1
+90	3	did	_
+90	4	n't	_
+90	5	tear	_
+90	6	.	_
+90	7	[SEP]	_
+90	8	tear	_
+
+91	1	The	_
+91	2	lock	ARG1
+91	3	snapped	_
+91	4	.	_
+91	5	[SEP]	_
+91	6	snapped	_
+
+92	1	The	_
+92	2	lock	ARG1
+92	3	did	_
+92	4	n't	_
+92	5	snap	_
+92	6	.	_
+92	7	[SEP]	_
+92	8	snap	_
+
+93	1	The	_
+93	2	rock	ARG1
+93	3	fissured	_
+93	4	.	_
+93	5	[SEP]	_
+93	6	fissured	_
+
+94	1	The	_
+94	2	rock	ARG1
+94	3	did	_
+94	4	n't	_
+94	5	fissure	_
+94	6	.	_
+94	7	[SEP]	_
+94	8	fissure	_
+
+95	1	The	_
+95	2	sugar	ARG1
+95	3	dissolved	_
+95	4	.	_
+95	5	[SEP]	_
+95	6	dissolved	_
+
+96	1	The	_
+96	2	sugar	ARG1
+96	3	did	_
+96	4	n't	_
+96	5	dissolve	_
+96	6	.	_
+96	7	[SEP]	_
+96	8	dissolve	_
+
+97	1	The	_
+97	2	leaves	ARG1
+97	3	shredded	_
+97	4	.	_
+97	5	[SEP]	_
+97	6	shredded	_
+
+98	1	The	_
+98	2	leaves	ARG1
+98	3	did	_
+98	4	n't	_
+98	5	shred	_
+98	6	.	_
+98	7	[SEP]	_
+98	8	shred	_
+
+99	1	The	_
+99	2	air	ARG1
+99	3	rended	_
+99	4	.	_
+99	5	[SEP]	_
+99	6	rended	_
+
+100	1	The	_
+100	2	air	ARG1
+100	3	did	_
+100	4	n't	_
+100	5	rend	_
+100	6	.	_
+100	7	[SEP]	_
+100	8	rend	_
